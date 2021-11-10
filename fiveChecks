@@ -1,0 +1,11 @@
+C0103: I believe this is the one that deals in proper naming, i find this one
+appropriate for team based projects based on readability. It would be much easier to read formatted code than something you threw together for fun.
+
+C0301: As this one deals with line length. I think there is something to be said about keeping lines short for the idea of having multiple files open as it was stated on that style guide. However, I still feel like it comes back to readability and in a team setting I believe that to be the highest priority.
+
+E0104: You're gonna laugh but this one is personal. I used to have a big problem with this (return statements) in intro. I didn't start coding until I got to college alright? Give me a break.
+
+C0303: I find trailing white space annoying as well. I promise
+
+C0121: Not necessarily annoying, but something important are attribute checks.
+I doubt this trips in the hello code we did for this. I would haev to really try. 
